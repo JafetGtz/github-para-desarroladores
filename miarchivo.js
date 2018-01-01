@@ -1,1 +1,1 @@
-alert("archivo editado");
+alert("archivo borrado");
